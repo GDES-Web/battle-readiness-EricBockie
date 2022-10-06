@@ -1,0 +1,57 @@
+
+.background{max-width: 100%;
+margin: 40px;
+}
+
+.logo{display: flex;
+    margin: 2px;
+    background: rgb(153, 153, 153);
+}
+
+.navigation{
+    display: flex;
+    justify-content: center;
+    margin: 2px;
+    height: 50px;
+    background: rgb(153, 153, 153);
+}
+
+.header{display: flex;
+    justify-content: center;
+    margin: 2px;
+
+    background: rgb(153, 153, 153);}
+
+.flex{display: flex;
+justify-content: center;}
+
+.side{display: flex;
+    justify-content: center;
+    margin: 2px;
+    background: rgb(153, 153, 153);
+    height: 7.5in;
+    width: 50vw;}
+
+.body{display: flex;
+    justify-content: center;
+    margin: 2px;
+    background: rgb(153, 153, 153);
+    height: 7.5in;
+    width: 100vw;}
+
+.footer{display: flex;
+    justify-content: center;
+    margin: 2px;
+    background: rgb(153, 153, 153);}
+
+.no{ padding-left: 20px;}
+
+.noo{ display: flex;
+    text-align: center;
+    justify-content: center;}
+
+.nooo{ display: flex;
+    text-align: center;
+    justify-content: center;}
+
+.noooo{ padding-left: 20px;}
